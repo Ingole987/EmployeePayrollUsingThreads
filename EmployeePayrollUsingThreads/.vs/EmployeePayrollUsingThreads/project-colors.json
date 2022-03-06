@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d651bdc8-a13c-4de0-aae2-980cc3cd290a": {
+      "ProjectGuid": "d651bdc8-a13c-4de0-aae2-980cc3cd290a",
+      "DisplayName": "EmployeePayrollUsingThreads",
+      "ColorIndex": 0
+    },
+    "ad3c2201-2ea5-476b-b055-692d65612af3": {
+      "ProjectGuid": "ad3c2201-2ea5-476b-b055-692d65612af3",
+      "DisplayName": "EmployeePayrollTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
